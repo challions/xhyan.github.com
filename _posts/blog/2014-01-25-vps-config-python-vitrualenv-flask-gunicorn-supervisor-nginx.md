@@ -176,7 +176,7 @@ Gunicorn的配置是必须的，因为我们要上两个独立的站，所以不
     │       │   └── python2.7 -> /usr/include/python2.7
     │       ├── lib
     │       │   └── python2.7
-            ├── local
+    │       ├── local
     │       │   ├── bin -> /home/shenye/shenyefuli/bin
     │       │   ├── include -> /home/shenye/shenyefuli/include
     │       │   └── lib -> /home/shenye/shenyefuli/lib
